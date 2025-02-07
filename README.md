@@ -1,2 +1,2 @@
-# Xquery_Pr-ctica
+# Xquery_Practica
 Pa Estudia
