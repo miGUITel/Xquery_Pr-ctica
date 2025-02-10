@@ -6,3 +6,4 @@ Las funciones agregadas en XQuery permiten realizar cálculos sobre una secuenci
  Son parte del espacio de nombres fn (funciones estándar de XQuery).
  Se utilizan comúnmente para análisis y reportes de datos XML.
  Pueden aplicarse sobre números, fechas y cadenas de texto, dependiendo de la función.
+ 
