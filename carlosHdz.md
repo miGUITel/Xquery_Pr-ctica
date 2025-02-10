@@ -11,6 +11,8 @@
 > Se pueden sustituir estos valores por los símbolos **&**,en el caso del AND, **|** en el caso del OR y **!** en el caso del NOT().
 
 > El resultado de una expresión lógica es un valor booleano o un error. Cuando se evalúa una expresión lógica, se determina el valor booleano efectivo (EBV) de cada operando. A continuación, el operador se aplica a los EBV de  los operandos y el resultado vuelve a ser un valor booleano o un error.
+
+## Tabla de Operandos ##
 Si el EBV de un operando es un error, la expresión lógica puede dar como resultado un error. La siguiente tabla nos muestra los resultados devueltos por una expresión lógica basada en los EBV de sus operandos.
 
 | EBV de Operando 1 | Operador | EBV de Operando 2 | Resultado |
@@ -25,11 +27,11 @@ Si el EBV de un operando es un error, la expresión lógica puede dar como resul
 | error | **&** |false | false o error |
 | error | **&** | error | error |
 | true | **|** | true | true |
-| false | **|** |||
-| true | **|** |||
-| false | **|** |||
-| true | **|** |||
-| error | **|** |||
-| false | **|** |||
-| error | **|** |||
-| error | **|** |||
+| false | **|** | false | false |
+| true | **|** | false | true |
+| false | **|** | true | true |
+| true | **|** | error | error o true |
+| error | **|** | true | error o true |
+| false | **|** | error | error |
+| error | **|** | false | error |
+| error | **|** | error | error |
