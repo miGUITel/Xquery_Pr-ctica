@@ -1,6 +1,6 @@
 # Fichero de conflicto
 
-Miguel escribe encima
+Miguel borra arriba parte de la línea
 
 * hola
 
