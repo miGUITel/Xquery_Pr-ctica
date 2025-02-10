@@ -1,2 +1,3 @@
 # Fichero de conflicto
 
+* hola
