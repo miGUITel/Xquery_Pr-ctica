@@ -15,13 +15,21 @@ Si el EBV de un operando es un error, la expresión lógica puede dar como resul
 
 | EBV de Operando 1 | Operador | EBV de Operando 2 | Resultado |
 |-------------------|----------|-------------------|-----------|
-| true | & |||
-| true | & |||
-| false ||||
-| false ||||
-| true ||||
-| error ||||
-| false||||
-| error ||||
-|||||
-|||||
+| true | **&** | true | true |
+| true | **&** | false | false |
+| false | **&** | true | false |
+| false | **&** | false | false |
+| true | **&** | error | error |
+| error | **&** | true | error |
+| false| **&** | error | false o error |
+| error | **&** |false | false o error |
+| error | **&** | error | error |
+| true | **|** | true | true |
+| false | **|** |||
+| true | **|** |||
+| false | **|** |||
+| true | **|** |||
+| error | **|** |||
+| false | **|** |||
+| error | **|** |||
+| error | **|** |||
