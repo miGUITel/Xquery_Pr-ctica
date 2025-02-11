@@ -7,15 +7,15 @@ La expresión XQuery más importante es la llamada expresión FLWOR. FLWOR es el
 En XQuery, la cláusula **let** se utiliza para incializar una varible intermedia cuando ya hemos usado la claúsula **for**.
 Por ejemplo, si queremos una variable que llamada "nombre" cuyo contenido sea una cadena con valor "Abraham", podemos expresarlo de así:
 
-let $nombre := "Abraham"
+    let $nombre := "Abraham"
 
-Le hemos asignado el valor "Abraham al atributo nombre.
+    Le hemos asignado el valor "Abraham al atributo nombre.
 
 Si ya hemos declarado una variable con **for** tendriamos una estructura como la siguiente:
 
-for $nombre := "Abraham"
+    for $nombre := "Abraham"
 
-let  $apellido:= "Lozano"
+    let  $apellido:= "Lozano"
 
 
 
