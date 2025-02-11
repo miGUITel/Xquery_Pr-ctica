@@ -35,3 +35,17 @@ Si el EBV de un operando es un error, la expresión lógica puede dar como resul
 | false | **|** | error | error |
 | error | **|** | false | error |
 | error | **|** | error | error |
+
+## Ejemplos de Uso en BaseX
+
+### Ejemplo de filtrado en productos.xml que sean de la categoría "Electrónica" y cuyo precio sea mayor a 20. ###
+
+![alt](capturasCHG/capturaBASEX_LM.png)
+
+### Ejemplo de filtrado en productos.xml que sean de la categoría "Hogar" o "Electrónica". ###
+
+![alt](capturasCHG/capturaOR.png)
+
+### Ejemplo de filtrado en productos.xml que no sean de la categoría "Electrónica". ###
+
+![alt](capturasCHG/capturaNOT.png)
