@@ -16,14 +16,14 @@ Estos comparadores son utilizados para realizar comparaciones entre valores num√
 
 ## Ejemplos
 ### =:  
-![alt](docs/capturasPablo/captura1.png)
+![alt](capturasPablo/captura1.png)
 ### !=: 
-![alt](docs/capturasPablo/captura2.png)
+![alt](capturasPablo/captura2.png)
 ### <: 
-![alt](docs/capturasPablo/captura3.png)
+![alt](capturasPablo/captura3.png)
 ### >: 
-![alt](docs/capturasPablo/captura4.png)
+![alt](capturasPablo/captura4.png)
 ### <=: 
-![alt](docs/capturasPablo/captura5.png)
+![alt](capturasPablo/captura5.png)
 
 [Pagina anterior](./iliaSh.md) ___________________ [Pagina siguiente](./JuanMT.md)
