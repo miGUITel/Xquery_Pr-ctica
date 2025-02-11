@@ -14,6 +14,11 @@ $A union $B
 
 ![alt text](<imgJMT/image.png>)
 
+
+### EJEMPLO EN X QUERRY###
+
+Ejemplo para ver las los libros de programación y algoritmos
+
 ![alt text](<imgJMT/image4.png>)
 
 # intersect #
@@ -25,8 +30,13 @@ Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que a
 ## EJEMPLO ##
 $A intersect $B
 
-
 ![alt text](<imgJMT/image2.png>)
+
+### EJEMPLO EN X QUERRY###
+
+Ejemplo para ver las los libros con años menor al 2000 y mayor de 1900 pero solo los que sean menor de 2000 
+
+![alt text](<imgJMT/image5.png>)
 
 # except #
 
@@ -37,7 +47,14 @@ Toma dos secuencias de nodo como operandos y devuelve una secuencia que contiene
 ## EJEMPLO ##
 $A except $B
 
+
 ![alt text](<imgJMT/image3.png>)
+
+### EJEMPLO EN X QUERRY###
+
+Ejemplo para ver las los libros con años menor al 2000 y mayor de 1900 pero solo los que sean menor de 2000 
+
+![alt text](<imgJMT/image6.png>)
 
 
 ## Aclaraciones para todos ##
