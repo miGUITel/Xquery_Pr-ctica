@@ -35,6 +35,10 @@ Devuelve el valor más pequeños de los introducidos
 ![alt text](<capturas Ivan/4.png>)
 
 
+[Operaciones de Conjunto](./JuanMt.md)                                             
+[Expresiones Condicionales](./MilaB.md)
+
+
 
 
 
