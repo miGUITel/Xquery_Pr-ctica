@@ -49,3 +49,5 @@ Si el EBV de un operando es un error, la expresión lógica puede dar como resul
 ### Ejemplo de filtrado en productos.xml que no sean de la categoría "Electrónica". ###
 
 ![alt](capturasCHG/capturaNOT.png)
+
+<-- [Comparadores](./PCB.md) ======================= [Manipulación de Cadenas](./AGP.MD) -->
