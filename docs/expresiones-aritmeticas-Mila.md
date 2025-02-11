@@ -5,9 +5,9 @@ Las expresiones aritméticas en XQuery permiten realizar operaciones matemática
 
 ## Ejemplo Práctico
 Este código calcula la suma de dos números:
-```xquery
+<-- ```xquery
 let $suma := 5 + 3
-return $suma
+return $suma -->
 
 ![alt text](<./Captura de pantalla ejecución código.png>)
 
