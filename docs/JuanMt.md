@@ -15,7 +15,7 @@ $A union $B
 ![alt text](<imgJMT/image.png>)
 
 
-### EJEMPLO EN X QUERRY###
+### EJEMPLO EN X QUERRY ###
 
 Ejemplo para ver las los libros de programación y algoritmos
 
@@ -32,7 +32,7 @@ $A intersect $B
 
 ![alt text](<imgJMT/image2.png>)
 
-### EJEMPLO EN X QUERRY###
+### EJEMPLO EN X QUERRY ###
 
 Ejemplo para ver las los libros con años menor al 2000 y mayor de 1900 pero solo los que sean menor de 2000 
 
@@ -50,7 +50,7 @@ $A except $B
 
 ![alt text](<imgJMT/image3.png>)
 
-### EJEMPLO EN X QUERRY###
+### EJEMPLO EN X QUERRY ###
 
 Ejemplo para ver las los libros con años menor al 2000 y mayor de 1900 pero solo los que sean menor de 2000 
 
