@@ -24,4 +24,4 @@ A continuación, se muestran ejemplos prácticos de cómo usar estas funciones e
    ```xquery
    concat(Hola1, Y2, Adiós3, ...)
 
-<-- [Expresiones Lógicas (and, or, not())](./docs/carlosHdz.md) ======================= [Funciones Agregadas (count(), sum(), etc.)](./docs/gabriel.md) -->
+<-- [Expresiones Lógicas (and, or, not())](./carlosHdz.md) ======================= [Funciones Agregadas (count(), sum(), etc.)](./gabriel.md) -->
