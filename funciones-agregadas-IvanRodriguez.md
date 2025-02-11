@@ -9,30 +9,36 @@ Las funciones agregadas en XQuery permiten realizar cálculos sobre una secuenci
 dsfdsfds
 
 ### Ejemplos Prácticos
-Ejemplo 1: Suma de valores
+- Ejemplo 1: Suma de valores
 
-let $precios := (10, 20, 30, 40)
-return fn:sum($precios)
+Función que permite sumar varios valores dentro del paréntesis
 
-Ejemplo 2: Promedio de valores
 
-let $precios := (10, 20, 30, 40)
-return fn:avg($precios)
+![alt text](<capturas Ivan/1.png>)
 
-Ejemplo 3: Valor máximo
+- Ejemplo 2: Promedio de valores
 
-let $edades := (25, 30, 18, 40, 22)
-return fn:max($edades)
+Función que da la media de los valores introducidos en los paréntesis
 
-Ejemplo 4: Valor mínimo
+![alt text](<capturas Ivan/2.png>)
 
-let $edades := (25, 30, 18, 40, 22)
-return fn:min($edades)
+- Ejemplo 3: Valor máximo
 
-Ejemplo 5: Conteo de elementos en un XML
+Elije el valor máximo de los ofrecidos
 
-let $productos := doc("productos.xml")
-return fn:count($productos)
+![alt text](<capturas Ivan/3.png>)
+
+- Ejemplo 4: Valor mínimo
+
+Devuelve el valor más pequeños de los introducidos
+
+![alt text](<capturas Ivan/4.png>)
+
+
+<-- [Operaciones de Conjunto](./JuanMt.md)                              [Expresiones Condicionales](./MilaB.md) -->
+
+
+
 
 
 
