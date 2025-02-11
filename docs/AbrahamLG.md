@@ -23,6 +23,11 @@ Si ya hemos declarado una variable con **for** tendriamos una estructura como la
 ## Ejemplos ##
 Para los siguientes ejemplos usaremos una bse de datos XML dada en una tarea anterior. Esta base de datos gestiona una librería
 
+### Ejemplo 1 ###
+Queremos sacar todos los libros cuya fecha sea de antes del 2000.
 
+
+### Ejemplo 2 ###
+Queremos sacar todos los libros cuyo precio sea mayor de 50 y su fecha sea de antes del 2000, ordenados de forma descendente
 
 <-- [Creacion de nuevos elementos XML](./asdrian.md) ======================= [Operaciones de Conjunto (union, except, intersect)](./JuanMt.md)-->

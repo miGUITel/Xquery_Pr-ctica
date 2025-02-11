@@ -6,7 +6,7 @@
 
 Illia	        Expresiones Aritméticas
 
-Pablo	        [Comparadores](./PCB.md)
+Pablo	        [Comparadores](./docs/PCB.md)
 
 Carlos	        [Expresiones Lógicas (and, or, not())](./docs/carlosHdz.md)
 
