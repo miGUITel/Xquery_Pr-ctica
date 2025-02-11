@@ -10,7 +10,7 @@ Pablo	        [Comparadores](./PCB.md)
 
 Carlos	        [Expresiones Lógicas (and, or, not())](./docs/carlosHdz.md)
 
-Ángel	        [Manipulación de Cadenas](./AGP.MD)
+Ángel	        [Manipulación de Cadenas](./docs/AGP.MD)
 
 Gabriel	        Funciones Agregadas (count(), sum(), etc.)
 
