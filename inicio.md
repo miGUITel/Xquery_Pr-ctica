@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 
-Comparadores
-[enlace a mi página](./PCB.md)
+
 =======
 # PANTALLA DE INICIO #
 
@@ -34,3 +33,5 @@ Iván Marino	    Ordenación (order by)
 
 ## Que cada uno ponga en su paguina un enlace al compañero de delante y de detras
 >>>>>>> 94f8653bf66562fac79abed293906cd04d8b9ab0
+Comparadores
+[enlace a mi página](./PCB.md)
