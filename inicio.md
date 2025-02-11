@@ -6,7 +6,7 @@
 
 Illia	        Expresiones Aritméticas
 
-Pablo	        Comparadores
+Pablo	        Comparadores[Comparadores](./PCB.md)
 
 Carlos	        Expresiones Lógicas (and, or, not())
 
@@ -33,5 +33,5 @@ Iván Marino	    Ordenación (order by)
 
 ## Que cada uno ponga en su paguina un enlace al compañero de delante y de detras
 >>>>>>> 94f8653bf66562fac79abed293906cd04d8b9ab0
-Comparadores
-[enlace a mi página](./PCB.md)
+
+[Comparadores](./PCB.md)
