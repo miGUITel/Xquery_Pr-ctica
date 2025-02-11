@@ -11,7 +11,7 @@ Por ejemplo, si queremos una variable que llamada "nombre" cuyo contenido sea un
 
     return $nombre
 
-Le hemos asignado el valor "Abraham" al atributo nombre.
+Le hemos asignado el valor "Abraham" al atributo nombrey nos ha devuelto el resultado.
 
 Si combinamos **for** con **let**, podríamos estructurar la consulta de esta manera:
 
