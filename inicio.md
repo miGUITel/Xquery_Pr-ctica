@@ -6,9 +6,9 @@
 
 Illia	        Expresiones Aritméticas
 
-Pablo	        Comparadores[Comparadores](./PCB.md)
+Pablo	        [Comparadores](./PCB.md)
 
-Carlos	        Expresiones Lógicas (and, or, not())
+Carlos	        [Expresiones Lógicas (and, or, not())](./docs/carlosHdz.md)
 
 Ángel	        Manipulación de Cadenas
 
@@ -33,5 +33,3 @@ Iván Marino	    Ordenación (order by)
 
 ## Que cada uno ponga en su paguina un enlace al compañero de delante y de detras
 >>>>>>> 94f8653bf66562fac79abed293906cd04d8b9ab0
-
-[Comparadores](./PCB.md)
