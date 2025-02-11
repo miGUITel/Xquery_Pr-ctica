@@ -14,6 +14,8 @@ return $var
 ## Ejemplo practico
 Supongamos que tenemos una base de datos XML con una lista de libros y queremos ordenarlos por precio de menor a mayor.
 
+
+<?xml version="1.0" encoding="UTF-8"?>
 <libros>
     <libro>
         <titulo>Libro A</titulo>
@@ -31,7 +33,7 @@ Supongamos que tenemos una base de datos XML con una lista de libros y queremos 
 
 ## Ejemplo de consulta
 
-for $libro in doc('libros.xml')/libros/libro
+for $libro in libros/libro
 order by $libro/precio ascending
 return $libro
 
@@ -50,3 +52,9 @@ return $libro
     <precio>30</precio>
 </libro>
 
+### Captura probando el ejemplo ###
+
+![alt](docs\capturasSamuel\image.png)
+
+
+<-- [Uso de Variables (let)](./docs/AbrahamLG.md) ============= [Manipulación de Cadenas](./gabriel.md) -->
