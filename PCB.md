@@ -25,3 +25,4 @@ Estos comparadores son utilizados para realizar comparaciones entre valores num√
 ![alt](capPablo/captura4.png)
 ### <=: 
 ![alt](capPablo/captura5.png)
+
