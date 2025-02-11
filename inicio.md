@@ -24,7 +24,7 @@ Abraham	        Uso de Variables (let)
 
 Juan	        Operaciones de Conjunto (union, except, intersect)
 
-Iván	        Funciones Agregadas (count(), sum(), etc.)
+Iván	        [Funciones Agregadas (count(), sum(), etc.)](./docs/funciones-agregadas-IvanRodriguez.md)
 
 Mila	        Expresiones Condicionales (if-then-else)
 
