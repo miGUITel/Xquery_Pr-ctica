@@ -11,14 +11,14 @@ dsfdsfds
 ### Ejemplos Prácticos
 - Ejemplo 1: Suma de valores
 
-Función que me permite sumar varios valores dentro del paréntesis
+Función que permite sumar varios valores dentro del paréntesis
 
 
 ![alt text](<capturas Ivan/1.png>)
 
 - Ejemplo 2: Promedio de valores
 
-Función que me da la media de los valores introducidos en los paréntesis
+Función que da la media de los valores introducidos en los paréntesis
 
 ![alt text](<capturas Ivan/2.png>)
 
