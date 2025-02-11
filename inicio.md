@@ -16,7 +16,7 @@ Gabriel	        Funciones Agregadas (count(), sum(), etc.)
 
 Abel	        Expresiones Condicionales (if-then-else)
 
-Samuel	        [Ordenación (order by)] (./docs/SamuelCarpena.md)
+Samuel	        [Ordenación (order by)](./docs/SamuelCarpena.md)
 
 Adrián	        [Creación de Nuevos Elementos XML](./docs/asdrian.md)
 
