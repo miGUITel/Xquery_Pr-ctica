@@ -1,9 +1,13 @@
 # Ordenación en XQuery (order by)
 
 ## Explicación Teórica
-El operador order by en XQuery permite ordenar los resultados de una consulta basándose en uno o más criterios. Se usa dentro de una expresión 
-FLWOR(for, let, where, order by, return). 
-Ascending (ascendente) es el orden predeterminado y descending (descendente) se usa para invertir el orden.
+En XQuery, el operador order by permite ordenar los resultados de una consulta basándose en uno o más criterios. Se utiliza dentro de una expresión FLWOR (acrónimo de for, let, where, order by, return).
+
+Tipos de ordenación disponibles:
+
+ascending → Orden ascendente (menor a mayor) (por defecto)
+descending → Orden descendente (mayor a menor)
+También es posible ordenar por múltiples criterios, combinando diferentes órdenes.
 
 ## Su Sintaxis Básica
 
