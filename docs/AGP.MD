@@ -23,3 +23,5 @@ A continuación, se muestran ejemplos prácticos de cómo usar estas funciones e
    **Sintaxis**:  
    ```xquery
    concat(Hola1, Y2, Adiós3, ...)
+
+[Expresiones Lógicas (and, or, not())](./docs/carlosHdz.md) ___________________ [Funciones Agregadas (count(), sum(), etc.)](./docs/gabriel.md)
