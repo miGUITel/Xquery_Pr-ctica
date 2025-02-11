@@ -9,25 +9,39 @@ Por ejemplo, si queremos una variable que llamada "nombre" cuyo contenido sea un
 
     let $nombre := "Abraham"
 
-    Le hemos asignado el valor "Abraham" al atributo nombre.
+    return $nombre
 
-Si ya hemos declarado una variable con **for** tendriamos una estructura como la siguiente:
+Le hemos asignado el valor "Abraham" al atributo nombre.
 
-    for $nombre := "Abraham"
+Si combinamos **for** con **let**, podríamos estructurar la consulta de esta manera:
 
-    let  $apellido:= "Lozano"
 
+    for $persona in ("Abraham")
+    let $apellido := "Lozano"
+    return concat($persona, " ", $apellido)
+En este caso:
+
+**for $persona** recorre una secuencia (en este ejemplo, solo contiene "Abraham").
+
+**let $apellido** almacena el valor "Lozano", sin iterar.
+
+**return concat($persona, " ", $apellido)** genera "Abraham Lozano".
+
+De esta manera, **let** permite definir variables auxiliares dentro de una consulta sin afectar la iteración de **for**
 
 
 
 ## Ejemplos ##
-Para los siguientes ejemplos usaremos una bse de datos XML dada en una tarea anterior. Esta base de datos gestiona una librería
+Para los siguientes ejemplos, utilizaremos una base de datos XML de una librería, proporcionada en una tarea anterior.
 
 ### Ejemplo 1 ###
 Queremos sacar todos los libros cuya fecha sea de antes del 2000.
 
+![alt text](<capturasAbraham/XQueryAño.png>)
 
 ### Ejemplo 2 ###
-Queremos sacar todos los libros cuyo precio sea mayor de 50 y su fecha sea de antes del 2000, ordenados de forma descendente
+Queremos sacar todos los libros cuyo precio sea menor de 50 y su fecha sea de antes del 2000, ordenados de forma descendente
+
+![alt text](<capturasAbraham/XQueryAñoPrecio.png>)
 
 <-- [Creacion de nuevos elementos XML](./asdrian.md) ======================= [Operaciones de Conjunto (union, except, intersect)](./JuanMt.md)-->
