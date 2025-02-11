@@ -14,7 +14,7 @@ $A union $B
 
 ![alt text](<imgJMT/image.png>)
 
-![alt text](image4.png)
+![alt text](<imgJMT/image4.png>)
 
 # intersect #
 
@@ -47,4 +47,3 @@ Los operandos de (union, intersecto except) deben resolverse en secuencias que c
 
 
 <-- [Uso de Variables](./AbrahamLG.md) =======================  [Funciones Agregadas](./funciones-agregadas-IvanRodriguez.md) -->
-

@@ -22,7 +22,7 @@ Adrián	        [Creación de Nuevos Elementos XML](./docs/asdrian.md)
 
 Abraham	        [Uso de Variables (let)](./docs/AbrahamLG.md)
 
-Juan	        [Operaciones de Conjunto (union, except, intersect)](./docs/JuanMT.md)
+Juan	        [Operaciones de Conjunto (union, except, intersect)](./docs/JuanMt.md)
 
 Iván	        [Funciones Agregadas (count(), sum(), etc.)](./docs/funciones-agregadas-IvanRodriguez.md)
 
