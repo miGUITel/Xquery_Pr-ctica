@@ -26,7 +26,7 @@ Juan	        [Operaciones de Conjunto (union, except, intersect)](./docs/JuanMt.
 
 Iván	        [Funciones Agregadas (count(), sum(), etc.)](./docs/funciones-agregadas-IvanRodriguez.md)
 
-Mila	        [Expresiones Condicionales (if-then-else)] (./docs/expresiones-aritmeticas-Mila.md)
+Mila	        [Expresiones aritmeticas] (./docs/expresiones-aritmeticas-Mila.md)
 
 Iván Marino	    Ordenación (order by)
 
