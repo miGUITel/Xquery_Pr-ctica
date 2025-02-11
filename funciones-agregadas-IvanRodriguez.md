@@ -13,7 +13,7 @@ dsfdsfds
 
 let $precios := (10, 20, 30, 40)
 return fn:sum($precios)
-![alt text](1.png)
+![alt text](<capturas Ivan/1.png>)
 
 - Ejemplo 2: Promedio de valores
 
