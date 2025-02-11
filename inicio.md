@@ -26,7 +26,7 @@ Juan	        [Operaciones de Conjunto (union, except, intersect)](./docs/JuanMt.
 
 Iván	        [Funciones Agregadas (count(), sum(), etc.)](./docs/funciones-agregadas-IvanRodriguez.md)
 
-Mila	        [Expresiones Aritméticas en XQuery] (./docs/funciones-agregadas-IvanRodriguez.md)
+Mila	        [Expresiones Aritméticas en XQuery](./docs/funciones-aritmeticas-Mila.md)
 
 Iván Marino	    Ordenación (order by)
 
