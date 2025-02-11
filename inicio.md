@@ -20,7 +20,7 @@ Samuel	        Ordenación (order by)
 
 Adrián	        Creación de Nuevos Elementos XML
 
-Abraham	        Uso de Variables (let)
+Abraham	        [Uso de Variables (let)](./docs/AbrahamLG.md)
 
 Juan	        Operaciones de Conjunto (union, except, intersect)
 
