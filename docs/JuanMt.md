@@ -45,5 +45,6 @@ Todos estos operadores eliminan los nodos duplicados
 
 Los operandos de (union, intersecto except) deben resolverse en secuencias que contengan sólo nodos. Si un operando contiene un elemento que no es un nodo, se devuelve un error.
 
+<-- [Operaciones de Conjunto](./JuanMt.md) ======================= [Expresiones Condicionales](./MilaB.md) -->
 
 [Uso de Variables](./AbrahamLG.md) ___________________ [Funciones Agregadas](./funciones-agregadas-IvanRodriguez.md)
