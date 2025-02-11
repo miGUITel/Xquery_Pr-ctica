@@ -11,29 +11,22 @@ dsfdsfds
 ### Ejemplos Prácticos
 - Ejemplo 1: Suma de valores
 
-let $precios := (10, 20, 30, 40)
-return fn:sum($precios)
 ![alt text](<capturas Ivan/1.png>)
 
 - Ejemplo 2: Promedio de valores
 
-let $precios := (10, 20, 30, 40)
-return fn:avg($precios)
+![alt text](<capturas Ivan/2.png>)
 
 - Ejemplo 3: Valor máximo
 
-let $edades := (25, 30, 18, 40, 22)
-return fn:max($edades)
+![alt text](<capturas Ivan/3.png>)
 
 - Ejemplo 4: Valor mínimo
 
-let $edades := (25, 30, 18, 40, 22)
-return fn:min($edades)
+![alt text](<capturas Ivan/4.png>)
 
-- Ejemplo 5: Conteo de elementos en un XML
 
-let $productos := doc("productos.xml")
-return fn:count($productos)
+
 
 
 
