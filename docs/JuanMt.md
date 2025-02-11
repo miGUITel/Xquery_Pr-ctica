@@ -11,7 +11,7 @@ Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que a
 
 ## EJEMPLO ##
 $A union $B
-![alt text](imgJMT/image.png)
+![alt text](<imgJMT/image.png>)
 
 
 # intersect #
@@ -22,7 +22,7 @@ Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que a
 
 ## EJEMPLO ##
 $A intersect $B
-![alt text](imgJMT/image2.png)
+![alt text](<imgJMT/image2.png>)
 
 # except #
 
@@ -32,7 +32,7 @@ Toma dos secuencias de nodo como operandos y devuelve una secuencia que contiene
 
 ## EJEMPLO ##
 $A except $B
-![alt text](imgJMT/image3.png)
+![alt text](<imgJMT/image3.png>)
 
 
 ## Aclaraciones para todos ##

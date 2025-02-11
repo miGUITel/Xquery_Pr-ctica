@@ -12,3 +12,15 @@ Le hemos asignado el valor "Abraham al atributo nombre.
 Si ya hemos declarado una variable con "for" tendriamos una estructura como la siguiente:
 for $nombre := "Abraham"
 let  $apellido:= "Lozano"
+
+
+
+
+
+
+
+
+
+[Creacion de nuevos elementos XML](./AGP.MD)
+
+[Operaciones de Conjunto (union, except, intersect)](./JuanMt.md)
