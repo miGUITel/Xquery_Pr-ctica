@@ -11,6 +11,7 @@ Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que a
 
 ## EJEMPLO ##
 $A union $B
+
 ![alt text](<imgJMT/image.png>)
 
 
@@ -22,6 +23,7 @@ Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que a
 
 ## EJEMPLO ##
 $A intersect $B
+
 ![alt text](<imgJMT/image2.png>)
 
 # except #
@@ -32,6 +34,7 @@ Toma dos secuencias de nodo como operandos y devuelve una secuencia que contiene
 
 ## EJEMPLO ##
 $A except $B
+
 ![alt text](<imgJMT/image3.png>)
 
 
@@ -41,4 +44,4 @@ Todos estos operadores eliminan los nodos duplicados
 Los operandos de (union, intersecto except) deben resolverse en secuencias que contengan sólo nodos. Si un operando contiene un elemento que no es un nodo, se devuelve un error.
 
 
-[Pagina anterior](./docs/AbrahamLG.md) ___________________ [Pagina siguiente](./docs/funciones-agregadas-IvanRodriguez.md)
+[Pagina anterior](./AbrahamLG.md) ___________________ [Pagina siguiente](./funciones-agregadas-IvanRodriguez.md)
