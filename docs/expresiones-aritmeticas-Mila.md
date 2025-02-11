@@ -8,4 +8,7 @@ Este código calcula la suma de dos números:
 ```xquery
 let $suma := 5 + 3
 return $suma
-<-- [EXPRESIONES LÓGICAS](./carlosHdz.md) ======================= [funciones agregadas](./funciones-agregadas-IvanRodriguez.md)-->
+
+![alt text](<./Captura de pantalla ejecución código.png>)
+
+<-- [EXPRESIONES LÓGICAS](./carlosHdz.md) ================= [funciones agregadas](./funciones-agregadas-IvanRodriguez.md)-->
