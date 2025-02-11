@@ -21,7 +21,8 @@ intersect
 Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que aparecen ambos operandos.
 
 ## EJEMPLO ##
-
+$A intersect $B
+![alt text](imgJMT/image2.png)
 
 # except #
 
@@ -30,6 +31,8 @@ except
 Toma dos secuencias de nodo como operandos y devuelve una secuencia que contiene todos los nodos que aparecen en el primer operando pero no en el segundo operando.
 
 ## EJEMPLO ##
+$A except $B
+![alt text](imgJMT/image3.png)
 
 
 ## Aclaraciones para todos ##
