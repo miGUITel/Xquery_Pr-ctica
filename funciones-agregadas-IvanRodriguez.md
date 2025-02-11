@@ -11,17 +11,26 @@ dsfdsfds
 ### Ejemplos Prácticos
 - Ejemplo 1: Suma de valores
 
+Función que me permite sumar varios valores dentro del paréntesis
+
+
 ![alt text](<capturas Ivan/1.png>)
 
 - Ejemplo 2: Promedio de valores
+
+Función que me da la media de los valores introducidos en los paréntesis
 
 ![alt text](<capturas Ivan/2.png>)
 
 - Ejemplo 3: Valor máximo
 
+Elije el valor máximo de los ofrecidos
+
 ![alt text](<capturas Ivan/3.png>)
 
 - Ejemplo 4: Valor mínimo
+
+Devuelve el valor más pequeños de los introducidos
 
 ![alt text](<capturas Ivan/4.png>)
 
