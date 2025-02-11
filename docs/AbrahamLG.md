@@ -9,7 +9,7 @@ Por ejemplo, si queremos una variable que llamada "nombre" cuyo contenido sea un
 
     let $nombre := "Abraham"
 
-    Le hemos asignado el valor "Abraham al atributo nombre.
+    Le hemos asignado el valor "Abraham" al atributo nombre.
 
 Si ya hemos declarado una variable con **for** tendriamos una estructura como la siguiente:
 
@@ -23,8 +23,11 @@ Si ya hemos declarado una variable con **for** tendriamos una estructura como la
 ## Ejemplos ##
 Para los siguientes ejemplos usaremos una bse de datos XML dada en una tarea anterior. Esta base de datos gestiona una librería
 
+### Ejemplo 1 ###
+Queremos sacar todos los libros cuya fecha sea de antes del 2000.
 
 
-[Página Anterior---Creacion de nuevos elementos XML](./AGP.MD)
+### Ejemplo 2 ###
+Queremos sacar todos los libros cuyo precio sea mayor de 50 y su fecha sea de antes del 2000, ordenados de forma descendente
 
-[Página Siguiente---Operaciones de Conjunto (union, except, intersect)](./JuanMt.md)
+<-- [Creacion de nuevos elementos XML](./asdrian.md) ======================= [Operaciones de Conjunto (union, except, intersect)](./JuanMt.md)-->
