@@ -26,4 +26,4 @@ Estos comparadores son utilizados para realizar comparaciones entre valores num√
 ### <=: 
 ![alt](capturasPablo/captura5.png)
 
-<-- [Pagina anterior](./iliaSh.md) ======================= [Pagina siguiente](./JuanMT.md) -->
+<-- [Pagina anterior](./illiaSh.md) ======================= [Pagina siguiente](./carlosHdz.md) -->
