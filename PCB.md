@@ -1,6 +1,6 @@
 # Bienvenidos a mi repositorio 
 ## Realizado por Pablo Císcar Blázquez
-## El tema: Comparadores
+##  Comparadores
 - Por forma totalmente aleatoria mi parte del trabajo consiste en:
     1. Explicacion teorica sobre ### =: el grupo de expreciones XQuery
     2. Ejemplo practico con codigo XQuery
