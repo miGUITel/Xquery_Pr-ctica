@@ -34,6 +34,14 @@ Todos estos operadores eliminan los nodos duplicados
 
 Los operandos de (union, intersecto except) deben resolverse en secuencias que contengan sólo nodos. Si un operando contiene un elemento que no es un nodo, se devuelve un error.
 
+## Pagina anterior ##
+[Pagina anterior](./AbrahamLG.md)
+
+
+## Pagina siguiente ##
+[Pagina anterior](./AbrahamLG.md)
+
+
 
 
 Las expresiones siguientes son todos ejemplos válidos que utilizan operadores para combinar secuencias de nodos:
@@ -42,7 +50,6 @@ $managers intersect $students devuelve el conjunto de nodos que representan a lo
 $managers except $students devuelve el conjunto de nodos que representan a los empleados que son gestores pero no estudiantes.
 
 
-
-### Primera captura
-
-![alt](./capturasIllia/Captura%20de%20pantalla%20de%202025-02-07%2012-58-33.png)
+braham	        Uso de Variables (let)
+Juan	        Operaciones de Conjunto (union, except, intersect)
+Iván	        Funciones Agregadas (count(), sum(), etc.)
