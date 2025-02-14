@@ -6,14 +6,18 @@ En XQuery, el operador order by permite ordenar los resultados de una consulta b
 Tipos de ordenación disponibles:
 
 ascending → Orden ascendente (menor a mayor) (por defecto)
+
 descending → Orden descendente (mayor a menor)
+
 También es posible ordenar por múltiples criterios, combinando diferentes órdenes.
 
 ## Su Sintaxis Básica
 
+```
 for $var in ejemplo/elemento
 order by $var/campo ascending
 return $var
+```
 
 ## Ejemplo practico
 Supongamos que tenemos una base de datos XML con una lista de libros y queremos ordenarlos por precio de menor a mayor.
