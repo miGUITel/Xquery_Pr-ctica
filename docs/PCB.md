@@ -2,10 +2,17 @@
 ## Realizado por Pablo Císcar Blázquez
 ##  Comparadores
 ## -Teoría
-Los comparadores en XQuery son operadores que permiten evaluar condiciones y comparar valores dentro de las consultas. XQuery, siendo un lenguaje diseñado para trabajar con datos estructurados### =:  como XML, ofrece una variedad de comparadores tanto para comparaciones numéricas como para comparaciones de otros tipos de datos. Aquí te explico más detalladamente los dos tipos principales de comparadores en XQuery y cómo se utilizan:
-Comparadores Numéricos
+Los comparadores en XQuery son operadores que permiten evaluar condiciones y comparar valores dentro de las consultas. XQuery, siendo un lenguaje diseñado para trabajar con datos estructurados
+### =:
+(no tengo muy claro lo que querías hacer con estas trs # anteriores)
+
+Como XML, ofrece una variedad de comparadores tanto para comparaciones numéricas como para comparaciones de otros tipos de datos. Aquí te explico más detalladamente los dos tipos principales de comparadores en XQuery y cómo se utilizan:
+
+## Comparadores Numéricos
 ### -Tipos de comparadores 
 Estos comparadores son utilizados para realizar comparaciones entre valores numéricos:
+
+> tal cual lo expresas, no me queda claro si el comparador `=` se escribe `=` o `=:`
 
     =: Igual que. Compara dos valores para verificar si son iguales.
     !=: No igual. Compara dos valores para verificar si no son iguales.
@@ -13,6 +20,8 @@ Estos comparadores son utilizados para realizar comparaciones entre valores num�
     >: Mayor que. Verifica si el valor a la izquierda del operador es mayor que el valor a la derecha.
     <=: Menor o igual que. Verifica si el valor a la izquierda es menor o igual al valor a la derecha.
     >=: Mayor o igual que. Verifica si el valor a la izquierda es mayor o igual al valor a la derecha.
+
+> Habría estado bien que aplicaras las expresiones en consultas FLWOR
 
 ## Ejemplos
 ### =:  
