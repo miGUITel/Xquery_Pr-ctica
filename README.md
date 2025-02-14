@@ -25,6 +25,3 @@ Iván	        [Funciones Agregadas (count(), sum(), etc.)](./docs/funciones-agre
 Mila	        [Expresiones Aritméticas en XQuery](./docs/expresiones-aritmeticas-Mila.md)
 
 Iván Marino	    Ordenación (order by)
-
-
-## Que cada uno ponga en su paguina un enlace al compañero de delante y de detras
