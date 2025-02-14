@@ -11,7 +11,7 @@ Por ejemplo, si queremos una variable que llamada "nombre" cuyo contenido sea un
 
     return $nombre
 
-Le hemos asignado el valor "Abraham" al atributo nombrey nos ha devuelto el resultado.
+Le hemos asignado el valor "Abraham" al atributo nombre y nos ha devuelto el resultado.
 
 Si combinamos **for** con **let**, podríamos estructurar la consulta de esta manera:
 
@@ -41,6 +41,8 @@ Queremos sacar todos los libros cuya fecha sea de después del 2000.
 
 ### Ejemplo 2 ###
 Queremos sacar todos los libros cuyo precio sea menor de 50 y su fecha sea de después del 2000, ordenados de forma descendente
+
+> el orden habitual es for let where order y return
 
 ![alt text](<CapturasAbraham/XQueryAñoPrecio.png>)
 
