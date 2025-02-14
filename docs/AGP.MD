@@ -27,7 +27,7 @@ A continuación, se muestran ejemplos prácticos de cómo usar estas funciones e
 <<<<<<< HEAD
 ## Ejemplos
 ### Concat:  
-![alt](Capturas De Pantalla De AGP/Cap 1 Ángel.png)
+![alt](Capturas De Pantalla De AGP/Cap 1 Ángel.PNG)
 ### SubString: 
 ![alt](Capturas De Pantalla De AGP/Cap 2 Ángel.PNG)
 ### StringLenght: 
