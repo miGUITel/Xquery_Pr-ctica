@@ -4,7 +4,9 @@
 
 Los operadores lógicos especifican la relación entre operandos en una expresión lógica. 
 
-- El operador lógico **not()** : Se utiliza para negar variables lógicas o constantes. Indica que uno u otro de sus operandos debe ser verdadero para producir un resultado verdadero.
+- El operador lógico **`not()`** : Se utiliza para negar variables lógicas o constantes. Indica que uno u otro de sus operandos debe ser verdadero para producir un resultado verdadero.
+
+`el acento invertido sirve para destacar expresiones, tipo código, dentro de una frase`
 
 - El operador lógico **AND** y **OR** : Se utilizan para especificar la relación entre operandos en una expresión lógica. Este operador indica que ambos operandos tienen que ser verdaderos para producir un resultado verdadero.
 
@@ -37,6 +39,8 @@ Si el EBV de un operando es un error, la expresión lógica puede dar como resul
 | error | **|** | error | error |
 
 ## Ejemplos de Uso en BaseX
+
+> los ejemplos están muy bien organizados y usas consultas FLOWR
 
 ### Ejemplo de filtrado en productos.xml que sean de la categoría "Electrónica" y cuyo precio sea mayor a 20. ###
 
