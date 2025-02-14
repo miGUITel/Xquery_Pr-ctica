@@ -37,11 +37,11 @@ Para los siguientes ejemplos, utilizaremos una base de datos XML de una librerí
 ### Ejemplo 1 ###
 Queremos sacar todos los libros cuya fecha sea de antes del 2000.
 
-![alt text](<capturasAbraham/XQueryAño.png>)
+![alt text](<CapturasAbraham/XQueryAño.png>)
 
 ### Ejemplo 2 ###
 Queremos sacar todos los libros cuyo precio sea menor de 50 y su fecha sea de antes del 2000, ordenados de forma descendente
 
-![alt text](<capturasAbraham/XQueryAñoPrecio.png>)
+![alt text](<CapturasAbraham/XQueryAñoPrecio.png>)
 
 <-- [Creacion de nuevos elementos XML](./asdrian.md) ======================= [Operaciones de Conjunto (union, except, intersect)](./JuanMt.md)-->
