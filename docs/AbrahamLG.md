@@ -35,12 +35,12 @@ De esta manera, **let** permite definir variables auxiliares dentro de una consu
 Para los siguientes ejemplos, utilizaremos una base de datos XML de una librería, proporcionada en una tarea anterior.
 
 ### Ejemplo 1 ###
-Queremos sacar todos los libros cuya fecha sea de antes del 2000.
+Queremos sacar todos los libros cuya fecha sea de después del 2000.
 
 ![alt text](<CapturasAbraham/XQueryAño.png>)
 
 ### Ejemplo 2 ###
-Queremos sacar todos los libros cuyo precio sea menor de 50 y su fecha sea de antes del 2000, ordenados de forma descendente
+Queremos sacar todos los libros cuyo precio sea menor de 50 y su fecha sea de después del 2000, ordenados de forma descendente
 
 ![alt text](<CapturasAbraham/XQueryAñoPrecio.png>)
 
