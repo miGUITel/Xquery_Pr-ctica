@@ -24,14 +24,17 @@ A continuación, se muestran ejemplos prácticos de cómo usar estas funciones e
    ```xquery
    concat(Hola1, Y2, Adiós3, ...)
 
-<<<<<<< HEAD
+
 ## Ejemplos
 ### Concat:  
-![alt](Capturas De Pantalla De AGP/Cap 1 Ángel.PNG)
+![alt](./Capturas%20De%20Pantalla%20De%20AGP/Cap%201%20Ángel.PNG)
 ### SubString: 
 ![alt](Capturas De Pantalla De AGP/Cap 2 Ángel.PNG)
 ### StringLenght: 
 ![alt](Capturas De Pantalla De AGP/Cap 3 Ángel.PNG)
 
 <-- [Expresiones Lógicas (and, or, not())](./carlosHdz.md) ======================= [Funciones Agregadas (count(), sum(), etc.)](./gabriel.md) -->
->>>>>>> 8556592ae3b6f6d1dc7249688d68bb7226829265
+
+He eliminado las marcas de un conflicto
+
+Las capturas no funcionan
