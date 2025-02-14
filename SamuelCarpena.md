@@ -1,5 +1,7 @@
 # Ordenación en XQuery (order by)
 
+>TU ENLACE EN INICIO NO FUNCIONABA
+
 ## Explicación Teórica
 En XQuery, el operador order by permite ordenar los resultados de una consulta basándose en uno o más criterios. Se utiliza dentro de una expresión FLWOR (acrónimo de for, let, where, order by, return).
 
