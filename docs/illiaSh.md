@@ -16,15 +16,26 @@ Siguiente tabla describe los operadores aritmeticos y los lista por orden de pri
   | Operador | Finalidad | Asociatividad |
 |--------------|--------------|--------------|
 | -(unary), +(unary)| niega el valor del operando, matiene el valor del operadp| derecha a izquierda|
-| *, div, idiv, mod| multiplicacion, divicion, divicion entera, modulo| izquierda a derecha|
+| *, div, idiv, mod| multiplicacion, division, divicsón entera, modulo| izquierda a derecha|
 |+, - | adicion, resta |izquierda a derecha | 
 
 ---
 
+## Estaría mucho mejor si cada ejemplo juntase cada explicación con su captura
+
 ## Ejemplo practico
+
 * En este ejemplo la primera expresion devuelve el valor decimal *-1.5*, la segunda expresion devuelve el valor integer *-1* 
+
 `-3 div 2`
+
+![alt](./capturasIllia/Captura%20de%20pantalla%20de%202025-02-07%2012-58-33.png)
+
+
 `-3 idiv 2` 
+
+![alt](capturasIllia/2.png)
+
 * En la siguiente expresión, la resta de dos valores de fecha da como resultado un valor de tipo xdt:dayTimeDuration:
 `$emp/hiredate - $emp/birthdate`
 * El ejemplo siguiente ilustra la diferencia entre un operador de resta y guiones que se utilizan en los nombres de variable unit-price y unit-discount
@@ -34,10 +45,6 @@ Siguiente tabla describe los operadores aritmeticos y los lista por orden de pri
 
 ## Capturas de pantalla
 ### Primera captura
-![alt](./capturasIllia/Captura%20de%20pantalla%20de%202025-02-07%2012-58-33.png)
-
-### Segunda captura
-![alt](capturasIllia/2.png)
 
 ### Tercera captura
 ![alt](capturasIllia/3.png)
