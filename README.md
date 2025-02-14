@@ -1,3 +1,27 @@
-# Xquery_Practica
-Pa Estudia
-Objetivo: Cada alumno documentará una categoría de expresiones en XQuery en un archivo .md y lo subirá a un repositorio compartido en GitHub. Aprenderán a usar Git y GitHub en Visual Studio Code (VSC) para clonar, hacer commits y subir cambios.
+# PANTALLA DE INICIO #
+
+Illia	        [Expresiones Aritméticas](./docs/illiaSh.md)
+
+Pablo	        [Comparadores](./docs/PCB.md)
+
+Carlos	        [Expresiones Lógicas (and, or, not())](./docs/carlosHdz.md)
+
+Ángel	        [Manipulación de Cadenas](./docs/AGP.MD)
+
+Gabriel	        [Funciones Agregadas (count(), sum(), etc.)](./gabriel.md)
+
+Abel	        [Expresiones Condicionales (if-then-else)](./AbelCA.md)
+
+Samuel	        [Ordenación (order by)](./docs/SamuelCarpena.md)
+
+Adrián	        [Creación de Nuevos Elementos XML](./docs/asdrian.md)
+
+Abraham	        [Uso de Variables (let)](./docs/AbrahamLG.md)
+
+Juan	        [Operaciones de Conjunto (union, except, intersect)](./docs/JuanMt.md)
+
+Iván	        [Funciones Agregadas (count(), sum(), etc.)](./docs/funciones-agregadas-IvanRodriguez.md)
+
+Mila	        [Expresiones Aritméticas en XQuery](./docs/expresiones-aritmeticas-Mila.md)
+
+Iván Marino	    Ordenación (order by)

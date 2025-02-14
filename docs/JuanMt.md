@@ -14,7 +14,12 @@ $A union $B
 
 ![alt text](<imgJMT/image.png>)
 
-![alt text](image4.png)
+
+### EJEMPLO EN X QUERRY ###
+
+Ejemplo para ver las los libros de programación y algoritmos
+
+![alt text](<imgJMT/image4.png>)
 
 # intersect #
 
@@ -25,8 +30,13 @@ Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que a
 ## EJEMPLO ##
 $A intersect $B
 
-
 ![alt text](<imgJMT/image2.png>)
+
+### EJEMPLO EN X QUERRY ###
+
+Ejemplo para ver las los libros con años menor al 2000 y mayor de 1900 pero solo los que sean menor de 2000 
+
+![alt text](<imgJMT/image5.png>)
 
 # except #
 
@@ -37,7 +47,14 @@ Toma dos secuencias de nodo como operandos y devuelve una secuencia que contiene
 ## EJEMPLO ##
 $A except $B
 
+
 ![alt text](<imgJMT/image3.png>)
+
+### EJEMPLO EN X QUERRY ###
+
+Ejemplo para ver las los libros con años menor al 2000 y mayor de 1900 pero solo los que sean menor de 2000 
+
+![alt text](<imgJMT/image6.png>)
 
 
 ## Aclaraciones para todos ##
@@ -46,4 +63,4 @@ Todos estos operadores eliminan los nodos duplicados
 Los operandos de (union, intersecto except) deben resolverse en secuencias que contengan sólo nodos. Si un operando contiene un elemento que no es un nodo, se devuelve un error.
 
 
-[Uso de Variables](./AbrahamLG.md) ___________________ [Funciones Agregadas](./funciones-agregadas-IvanRodriguez.md)
+<-- [Uso de Variables](./AbrahamLG.md) =======================  [Funciones Agregadas](./funciones-agregadas-IvanRodriguez.md) -->

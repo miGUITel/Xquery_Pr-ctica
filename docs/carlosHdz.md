@@ -50,4 +50,4 @@ Si el EBV de un operando es un error, la expresión lógica puede dar como resul
 
 ![alt](capturasCHG/capturaNOT.png)
 
-<-- [Comparadores](./PCB.md) ======================= [Manipulación de Cadenas](./AGP.MD) -->
+<-- [Comparadores](./PCB.md) ======================= [Funciones Agregadas](./gabriel.md) -->

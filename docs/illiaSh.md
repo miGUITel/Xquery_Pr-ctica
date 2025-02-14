@@ -44,3 +44,7 @@ Siguiente tabla describe los operadores aritmeticos y los lista por orden de pri
 
 ### Cuarta captura
 ![alt](capturasIllia/4.png)
+
+Ya que ates de mi no hay nadie, como el documento anterior indico a mi mismo
+
+<-- [Expresiones aritmeticas](./illiaSh.md) ======================= [Comparadores](./PCB.md) -->
