@@ -1,4 +1,7 @@
 # Juan Muñoz Tomas #
+
+> BUEN TRABAJO, los recortes de pantalla se pueden mejorar para que los ejemplos sean más claros.
+
 # Operaciones de Conjunto (union, except, intersect)
 
 # union #
@@ -7,17 +10,18 @@ union
 
 Toma dos secuencias de nodo y regresa una secuencia que contiene los nodos que aparecen en cualquiera de los operandos.
 
-
-
 ## EJEMPLO ##
 $A union $B
 
 ![alt text](<imgJMT/image.png>)
 
+> estas capturas son bastante aclaradoras
 
 ### EJEMPLO EN X QUERRY ###
 
 Ejemplo para ver las los libros de programación y algoritmos
+
+> en tu ejemplo se ve que has utilizado la expresión pero, como falta contexto, no se aprecia el resultado
 
 ![alt text](<imgJMT/image4.png>)
 
@@ -58,7 +62,7 @@ Ejemplo para ver las los libros con años menor al 2000 y mayor de 1900 pero sol
 
 
 ## Aclaraciones para todos ##
-Todos estos operadores eliminan los nodos duplicados
+> Todos estos operadores eliminan los nodos duplicados
 
 Los operandos de (union, intersecto except) deben resolverse en secuencias que contengan sólo nodos. Si un operando contiene un elemento que no es un nodo, se devuelve un error.
 
