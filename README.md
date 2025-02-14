@@ -8,9 +8,9 @@ Carlos	        [Expresiones Lógicas (and, or, not())](./docs/carlosHdz.md)
 
 Ángel	        [Manipulación de Cadenas](./docs/AGP.MD)
 
-Gabriel	        Funciones Agregadas (count(), sum(), etc.)
+Gabriel	        [Funciones Agregadas (count(), sum(), etc.)](./gabriel.md)
 
-Abel	        Expresiones Condicionales (if-then-else)
+Abel	        [Expresiones Condicionales (if-then-else)](./AbelCA.md)
 
 Samuel	        [Ordenación (order by)](./docs/SamuelCarpena.md)
 
