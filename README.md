@@ -12,7 +12,9 @@ Gabriel	        [Funciones Agregadas (count(), sum(), etc.)](./gabriel.md)
 
 Abel	        [Expresiones Condicionales (if-then-else)](./AbelCA.md)
 
-Samuel	        [Ordenación (order by)](./docs/SamuelCarpena.md)
+Samuel	        [Ordenación (order by)](./SamuelCarpena.md)
+
+<!-- EL ENLACE DE SAMUEL NO FUNCIONA, es responsabilidad de todos que la página de inicio funcione. -->
 
 Adrián	        [Creación de Nuevos Elementos XML](./docs/asdrian.md)
 
